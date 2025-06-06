@@ -15,7 +15,7 @@ public class Main {
         // TODO: It uses the implementation of Red Black Tree, which is a self balancing binary search tree
         Set<Integer> treeSet = new TreeSet<>();
 
-        // TODO: It uses the implementation of Binary Search Tree
+        // TODO: It uses the implementation of Hash Table and Doubly LL.
         Set<Integer> linkedHashSet = new LinkedHashSet<>();
 
         // TODO: hashset
